@@ -1,5 +1,6 @@
-
-# Hi 👋, Nahom Zenebe
+# <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF5733&width=435&lines=Hi+there!+I'm+Nahom+Zenebe.;MERN+Stack+Developer+%7C+Software+Engineer;Passionate+about+coding+and+learning." alt="Typing SVG" />
+</p>
 
 
 
@@ -19,39 +20,29 @@ I'm a passionate **MERN Stack Developer** and a **Software Engineering** student
 - Open-source projects and web development challenges.
 - Exploring innovative solutions and software engineering best practices.
 
-### 🛠️ My Tech Stack:
-- **Frontend**: React, JavaScript, TypeScript, HTML, CSS,Tailwind CSS
-- **Backend**: Node.js, Express
-- **Database**: MongoDB, MySQL
-- **Other Tools**: Python, Git, GitHub
+---
 
-### 🤔 Looking for Help With:
-- Improving my skills in scalable system design and performance optimization.
-- Furthering my understanding of full-stack architectures and cloud integrations.
+### 🧠 Languages and Tools
 
-### 💬 Ask Me About:
-- The **MERN stack** and its applications.
-- **Python** programming and machine learning.
-- **MySQL** and database design.
-
-### 📫 How to Reach Me:
-- [LinkedIn](#https://www.linkedin.com/in/nahom-zenebe-467a27338/)
-- Email: [nahomzenebe123@gmail.com](mailto:nahomzenebe123@gmail.com)
-
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+</p>
 
 ---
 
-### 🧰 Languages and Tools
+### 📊 Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nahom-zenebe&theme=github&hide_border=true&area=true)
 
-<img align="left" alt="MongoDB" width="30px" style="padding-right:10px; background-color:white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-<img align="left" alt="Express" width="30px" style="padding-right:10px; background-color:white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px; background-color:white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px; background-color:white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px; background-color:white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px; background-color:white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px; background-color:white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px; background-color:white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px; background-color:white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+---
 
+### 🔥 Streaks
+![GitHub Streak](https://streak-stats.demolab.com?user=nahom-zenebe&theme=radical&hide_border=true)
 
-<br /> 
