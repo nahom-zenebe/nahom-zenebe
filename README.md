@@ -12,14 +12,6 @@ I'm a passionate **MERN Stack Developer** and a **Software Engineering** student
 - Building full-stack applications with the **MERN** stack (MongoDB, Express, React, Node.js).
 - Integrating **Python**, **MySQL**, and **TypeScript** for scalable solutions.
 
-### 🌱 Currently Learning:
-- Advanced software engineering principles and best practices.
-- Exploring new tools and libraries for efficient development workflows.
-
-### 🤝 Looking To Collaborate On:
-- Open-source projects and web development challenges.
-- Exploring innovative solutions and software engineering best practices.
-
 ---
 
 ### 🧠 Languages and Tools
@@ -35,10 +27,18 @@ I'm a passionate **MERN Stack Developer** and a **Software Engineering** student
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahom-zenebe&layout=compact&theme=radical)](https://github.com/nahom-zenebe)
+
+
+
 
 ---
 
-### 📊 Contribution Graph
+### 📊 Stat Graph
+[![trophy](https://github-profile-trophy.vercel.app/?username=nahom-zenebe&theme=radical&no-frame=true)](https://github.com/nahom-zenebe)
+<br>
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nahom-zenebe&theme=github&hide_border=true&area=true)
 
 ---
