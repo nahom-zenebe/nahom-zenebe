@@ -43,6 +43,6 @@ I'm a passionate **MERN Stack Developer** and a **Software Engineering** student
 
 ---
 
-### 🔥 Streaks
+### 🔥 Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=nahom-zenebe&theme=radical&hide_border=true)
 
