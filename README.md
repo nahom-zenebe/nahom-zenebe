@@ -14,7 +14,7 @@ I'm a passionate **MERN Stack Developer** and a **Software Engineering** student
 
 ---
 
-### 🧠 Languages and Tool
+### 🧠 Language and Tool
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
