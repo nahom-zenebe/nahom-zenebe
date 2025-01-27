@@ -4,7 +4,7 @@
 
 
 
-I'm a passionate **MERN Stack Developer** and a **Software Engineering** student at **Addis Ababa University**. I enjoy building applications from the ground up, solving real-world problems with code, and continuously learning new technologies. Currently, I am focused on expanding my knowledge of full-stack development using **MERN**, along with **Python**, **MySQL**, and **TypeScript**.
+I'm a passionate **Full Stack Developer** and a **Software Engineering** student at **Addis Ababa University**. I enjoy building applications from the ground up, solving real-world problems with code, and continuously learning new technologies. Currently, I am focused on expanding my knowledge of full-stack development using **MERN**, along with **Python**, **MySQL**, and **TypeScript**.
 
 ---
 
