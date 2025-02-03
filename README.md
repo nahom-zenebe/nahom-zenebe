@@ -14,7 +14,7 @@ I'm a passionate **Full Stack Developer** and a **Software Engineering** student
 
 ---
 
-### 🧠 Language and Tool
+### 🧠 Language and Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
