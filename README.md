@@ -36,7 +36,7 @@ I'm a passionate **Full Stack Developer** and a **Software Engineering** student
 
 ---
 
-### 📊 Stat Graph
+### 📊 Stat Graphs
 [![trophy](https://github-profile-trophy.vercel.app/?username=nahom-zenebe&theme=radical&no-frame=true)](https://github.com/nahom-zenebe)
 <br>
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nahom-zenebe&theme=github&hide_border=true&area=true)
