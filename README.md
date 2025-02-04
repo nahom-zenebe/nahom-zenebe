@@ -1,48 +1,86 @@
-# <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF5733&width=435&lines=Hi+there!+I'm+Nahom+Zenebe.;MERN+Stack+Developer+%7C+Software+Engineer;Passionate+about+coding+and+learning." alt="Typing SVG" />
-</p>
+<!-- Static Introduction Section with Animation -->
+<div class="intro">
+  <h1>Hi there! I'm Nahom Zenebe.</h1>
+  <p><strong>Full Stack Developer</strong> | <strong>Software Engineer</strong></p>
+  <p>Passionate about coding, solving real-world problems, and continuously learning new technologies.</p>
+</div>
 
+<!-- Animated Commit and Repo Section -->
+<div class="animation-wrapper">
+  <h2>🚀 Currently Working On:</h2>
+  <ul class="animated-list">
+    <li class="animate__animated animate__fadeIn">Building full-stack applications with the <strong>MERN</strong> stack (MongoDB, Express, React, Node.js).</li>
+    <li class="animate__animated animate__fadeIn animate__delay-1s">Developing scalable back-end APIs using <strong>NestJS</strong>.</li>
+    <li class="animate__animated animate__fadeIn animate__delay-2s">Creating cross-platform mobile applications with <strong>Flutter</strong>.</li>
+    <li class="animate__animated animate__fadeIn animate__delay-3s">Integrating <strong>Python</strong>, <strong>MySQL</strong>, and <strong>TypeScript</strong> for enhanced solutions.</li>
+  </ul>
+</div>
 
+<!-- Skills & Tools Section -->
+<div class="skills">
+  <h3>🧠 Languages and Tools</h3>
+  <div class="skills-icons">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJS" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Flutter_logo_2023.svg" alt="Flutter" />
+  </div>
+</div>
 
-I'm a passionate **Full Stack Developer** and a **Software Engineering** student at **Addis Ababa University**. I enjoy building applications from the ground up, solving real-world problems with code, and continuously learning new technologies. Currently, I am focused on expanding my knowledge of full-stack development using **MERN**, along with **Python**, **MySQL**, and **TypeScript**.
+<!-- Add Animation via CSS -->
+<style>
+  .intro {
+    text-align: center;
+    padding: 20px;
+  }
+  .animation-wrapper {
+    padding: 20px;
+    text-align: center;
+  }
+  .animated-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  .animated-list li {
+    font-size: 18px;
+    margin: 10px 0;
+  }
+  .animate__animated {
+    animation-duration: 1s;
+    animation-fill-mode: both;
+  }
+  .animate__fadeIn {
+    animation-name: fadeIn;
+  }
+  .animate__delay-1s {
+    animation-delay: 1s;
+  }
+  .animate__delay-2s {
+    animation-delay: 2s;
+  }
+  .animate__delay-3s {
+    animation-delay: 3s;
+  }
+  .skills-icons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+  .skills-icons img {
+    width: 40px;
+    height: 40px;
+  }
+</style>
 
----
+<!-- Include Animate.css for smooth animations -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" rel="stylesheet">
 
-### 🚀 Currently Working On:
-- Building full-stack applications with the **MERN** stack (MongoDB, Express, React, Node.js).
-- Integrating **Python**, **MySQL**, and **TypeScript** for scalable solutions.
-
----
-
-### 🧠 Language and Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-</p>
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahom-zenebe&layout=compact&theme=radical)](https://github.com/nahom-zenebe)
-
-
-
-
----
-
-### 📊 Stat Graphs
-[![trophy](https://github-profile-trophy.vercel.app/?username=nahom-zenebe&theme=radical&no-frame=true)](https://github.com/nahom-zenebe)
-<br>
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nahom-zenebe&theme=github&hide_border=true&area=true)
-
----
-
-### 🔥 Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=nahom-zenebe&theme=radical&hide_border=true)
 
