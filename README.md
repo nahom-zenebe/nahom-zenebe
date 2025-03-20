@@ -5,9 +5,9 @@ I am a **Full Stack Developer** and a **Software Engineering** student at **Addi
 - **Frontend:** React, Redux, HTML, CSS, TailwindCSS, Bootstrap, TypeScript, Next.js, **JavaScript**
 - **Backend:** Node.js, Express, Python
 - **Databases:** MongoDB, MySQL
-- **Mobile Development:** Flutter, Dart
+- **Mobile Development:** Flutter, Dart, Kotlin
 - **Version Control:** Git, GitHub
-- **Other Tools:** Firebase, Postman
+- **Other Tools:** Firebase, Postman, C
 
 ## Skills & Technologies
 <p align="center">
@@ -26,23 +26,19 @@ I am a **Full Stack Developer** and a **Software Engineering** student at **Addi
   <span class="icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50"/></span>
   <span class="icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-plain.svg" alt="Postman" width="50" height="50"/></span>
   <span class="icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/></span>
-
+  <span class="icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50"/></span>
+  <span class="icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/></span>
 </p>
 
-
-
-
-
-
-## Commit History
-### 📊 GitHub Commit Graph
+## 📊 GitHub Stats
 ![Commit Graph](https://github-readme-stats.vercel.app/api?username=nahom-zenebe&show_icons=true&count_private=true&theme=radical)
 
-### 📈 Contribution Activity
+## 📈 Contribution Activity
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nahom-zenebe&theme=github&hide_border=true&area=true)
 
 ## 🌐 Language Stats
 ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nahom-zenebe&langs_count=10&layout=compact&theme=radical)
+
 
 
 
