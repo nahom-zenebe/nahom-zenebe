@@ -1,7 +1,7 @@
 ## Bio
 I am a **Full Stack Developer** and a **Software Engineering** student at **Addis Ababa University**. I specialize in building scalable web applications using **MERN** (MongoDB, Express, React, Node.js) and **Next.js**, with experience in **Flutter** for mobile development.
 
-## Skills & Technologies
+## Skills & Tools
 - **Frontend:** React, Redux, HTML, CSS, TailwindCSS, Bootstrap, TypeScript, Next.js, **JavaScript**
 - **Backend:** Node.js, Express, Python
 - **Databases:** MongoDB, MySQL
