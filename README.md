@@ -4,7 +4,7 @@ I am a **Full Stack Developer** and a **Software Engineering** student at **Addi
 ## Skills & Tools
 - **Frontend:** React, Redux, HTML, CSS, TailwindCSS, Bootstrap, TypeScript, Next.js, **JavaScript**
 - **Backend:** Node.js, Express, Python
-- **Databases:** MongoDB, MySQL
+- **Databases:** MongoDB, MySQL,Redis
 - **Mobile Development:** Flutter, Dart, Kotlin
 - **Version Control:** Git, GitHub
 - **Other Tools:** Firebase, Postman, C
