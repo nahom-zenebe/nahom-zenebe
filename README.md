@@ -7,7 +7,7 @@ I am a **Full Stack Developer** and a **Software Engineering** student at **Addi
 - **Databases:** MongoDB, MySQL,Redis
 - **Mobile Development:** Flutter, Dart, Kotlin,jetpackcompose
 - **Version Control:** Git, GitHub
-- **Other Tools:** Firebase, Postman
+- **Other Tools:** Firebase, Postman,C
 
 ## Skills & Technologies
 <p align="center">
