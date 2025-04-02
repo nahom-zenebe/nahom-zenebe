@@ -33,7 +33,7 @@ I am a **Full Stack Developer** and a **Software Engineering** student at **Addi
 ## 📊 GitHub Stats
 ![Commit Graph](https://github-readme-stats.vercel.app/api?username=nahom-zenebe&show_icons=true&count_private=true&theme=radical)
 
-## 📈 Contribution Activity
+## 📈 Contribution Activitys
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nahom-zenebe&theme=github&hide_border=true&area=true)
 
 ## 🌐 Language Stats
