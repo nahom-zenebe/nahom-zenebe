@@ -5,9 +5,9 @@ I am a **Full Stack Developer** and a **Software Engineering** student at **Addi
 - **Frontend:** React, Redux, HTML, CSS, TailwindCSS, Bootstrap, TypeScript, Next.js, **JavaScript**
 - **Backend:** Node.js, Express, Python
 - **Databases:** MongoDB, MySQL,Redis
-- **Mobile Development:** Flutter, Dart, Kotlin,jetpackcompose
+- **Mobile Development:** Flutter, Dart, Kotlin,jetpackcompose    
 - **Version Control:** Git, GitHub
-- **Other Tools:** Firebase, Postman
+- **Other Tools:** Firebase, Postman,vercal
 
 ## Skills & Technologies
 <p align="center">
