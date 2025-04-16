@@ -39,6 +39,10 @@ I am a **Full Stack Developer** and a **Software Engineering** student at **Addi
 ## 🌐 Language Stats
 ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nahom-zenebe&langs_count=10&layout=compact&theme=radical)
 
+## project online 
+https://prison-managment-system.vercel.app<br>
+https://advanced-inventory-management-system.vercel.app
+
 
 
 
