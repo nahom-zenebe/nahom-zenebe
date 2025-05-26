@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Nahom Zenebe</h1>
 <h3 align="center">Full Stack Developer | Software Engineering Student @ AAU</h3>
----
+
 
 ## 👨‍💻 Bio
 🚀 I’m a **Full Stack Developer** and a **Software Engineering** student at **Addis Ababa University**. I build scalable web applications using **MERN Stack**, **Next.js**, and develop mobile apps using **Flutter** and **Kotlin**.
