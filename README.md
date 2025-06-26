@@ -3,7 +3,7 @@
 
 
 ## 👨‍💻 Bio
-🚀 I’m a **Full Stack Developer** and a **Software Engineering** student at **Addis Ababa University**. I build scalable web applications using **MERN Stack**, **Next.js**, and develop mobile apps using **Flutter** and **Kotlin**.
+🚀 I’m a **Full Stack Developer** and a **Software Engineering** student with  2 years of experience. I build scalable web applications using **MERN Stack**, **Next.js**, and develop mobile apps using **Flutter** and **Kotlin**.
 
 ---
 
@@ -15,10 +15,12 @@
 - **Dev Tools**: Git, GitHub, Firebase, Postman, Vercel
 
 ---
+## 📅 Currently Working On
 
-
-
-
+- 🧠 Building an AI-powered web application using **Next.js**, **LangChain**, and **OpenAI API**  
+- 📱 Advancing my **Flutter** skills by developing a feature-rich mobile app with **state management**, **Firebase integration**, and **responsive design**
+- 🧪 Exploring backend scalability with **microservices architecture** and **Redis caching**
+---
 ## ⚙️ Skills & Technologies
 <p align="center">
   <!-- Tech stack icons -->
