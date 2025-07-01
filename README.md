@@ -10,7 +10,7 @@
 ## 🧠 Skills & Tools
 - **Frontend**: React, Redux, HTML, CSS, TailwindCSS, Bootstrap, TypeScript, Next.js, JavaScript
 - **Backend**: Node.js, Express, Python
-- **Databases**: MongoDB, MySQL, Redis
+- **Databases**: MongoDB, MySQL, Redis,Prisma
 - **Mobile**: Flutter, Dart, Kotlin, Jetpack Compose
 - **Dev Tools**: Git, GitHub, Firebase, Postman, Vercel
 
