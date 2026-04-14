@@ -1,87 +1,92 @@
 <h1 align="center">Hey there 👋, I'm Nahom Zenebe</h1>
-<h3 align="center">Full Stack & Machine Learning Developer | Software Engineering Student from Ethiopia 🇪🇹</h3>
+
+<h3 align="center">
+Full Stack Developer • Machine Learning Engineer • Software Engineering
+</h3>
+
+<p align="center">
+Building scalable web apps, intelligent systems, and modern mobile solutions 
+</p>
 
 ---
 
-## 👨‍💻 About Me
-🚀 I’m a **Full Stack Developer**, **Machine Learning Developer**, and a **Software Engineering** student with 2+ years of experience.  
-I build **scalable web applications** using **MERN Stack** and **Next.js**, develop **mobile apps** with **Flutter** and **Kotlin**, and implement **AI & ML solutions** using Python frameworks.  
+## 🚀 About Me
 
-I love integrating **AI, cloud services, and modern backend architectures** to deliver high-quality, real-world solutions.
+I'm a **Full Stack Developer & Machine Learning Engineer** with experience in building real-world, production-ready systems.
+
+- 🌐 I build scalable web apps using **MERN Stack & Next.js**
+- 📱 I develop mobile applications with **Flutter & Kotlin**
+- 🧠 I design and train ML models using **Python, PyTorch, and modern AI tools**
+- ☁️ I work with **cloud & backend systems** for scalable architecture
+- 🔥 Passionate about combining **AI + Software Engineering** to solve real problems
 
 ---
 
 ## ⚙️ Tech Stack
 
 ### 🌐 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="30"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" height="30"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" height="30"/>
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
 
 ### ⚙️ Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" height="30"/>
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-### 🧠 Machine Learning & AI
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/PyPlot-11557C?style=flat&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/LangChain-1F1F1F?style=flat&logoColor=white" height="30"/>
-</p>
+---
+
+### 🧠 AI / ML
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C1C1C?style=for-the-badge)
+
+---
 
 ### ☁️ Cloud & DevOps
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" height="30"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=white" height="30"/>
-</p>
-
-### 📱 Mobile Development
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/JetpackCompose-4285F4?style=flat&logo=android&logoColor=white" height="30"/>
-</p>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-## 📅 Currently Working On
-- 🧠 Building an **AI-powered web application** using **Next.js**, **LangChain**, and **OpenAI API**  
-- 🧪 Exploring **FastAPI**, **microservices architecture**, **Redis caching**, and **Go backend** for scalable solutions
-- 📊 Implementing **Machine Learning models** with **PyTorch, NumPy, Matplotlib, and PyPlot**
-- ☁️ Learning **AWS cloud services** and **Docker containerization** for production-ready deployments
+### 📱 Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats 
+## 🧠 Currently Working On
+
+- 🤖 AI-powered SaaS app using **Next.js + LangChain + OpenAI**
+- ⚡ Backend architecture with **FastAPI + Go microservices + Redis caching**
+- 📊 Deep Learning projects using **PyTorch & real-world datasets**
+- ☁️ Deploying production apps using **AWS + Docker + CI/CD pipelines**
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nahom-zenebe&theme=radical" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nahom-zenebe&theme=radical&row=1&column=5" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nahom-zenebe&theme=radical"/>
+<img src="https://streak-stats.demolab.com?user=nahom-zenebe&theme=radical&hide_border=true&border_radius=10"/>
 </p>
 
 
 
-
+---
