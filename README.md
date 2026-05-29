@@ -74,7 +74,7 @@ I'm a **Full Stack Developer & Machine Learning Engineer** with experience in bu
 ## 🧠 Currently Working On
 
 - 🤖 AI-powered SaaS app using **Next.js + LangChain + OpenAI**
-- ⚡ Backend architecture with **FastAPI + Go microservices + Redis caching**
+- ⚡  Working on Mindplex ai and Omegaplex porjects
 - 📊 Deep Learning projects using **PyTorch & real-world datasets**
 - ☁️ Deploying production apps using **AWS + Docker + CI/CD pipelines**
 
