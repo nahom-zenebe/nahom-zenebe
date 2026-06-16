@@ -1,24 +1,24 @@
-<h1 align="center">Hey there 👋, I'm Nahom Zenebe</h1>
+# Hey there 👋, I'm Nahom Zenebe
 
-<h3 align="center">
-Full Stack Developer • Machine Learning Engineer • Software Engineering
-</h3>
+## AI Engineer • Full Stack Developer • Building Agentic Systems & Scalable Applications
 
-<p align="center">
-Building scalable web apps, intelligent systems, and modern mobile solutions 
-</p>
+I design and build intelligent agent-based systems, scalable web apps, and production-ready AI products.
 
 ---
 
 ## 🚀 About Me
 
-I'm a **Full Stack Developer & Machine Learning Engineer** with experience in building real-world, production-ready systems.
+I'm an **AI Engineer & Full Stack Developer** focused on building intelligent, autonomous systems and modern software products.
 
-- 🌐 I build scalable web apps using **MERN Stack & Next.js**
-- 📱 I develop mobile applications with **Flutter & Kotlin**
-- 🧠 I design and train ML models using **Python, PyTorch, and modern AI tools**
-- ☁️ I work with **cloud & backend systems** for scalable architecture
-- 🔥 Passionate about combining **AI + Software Engineering** to solve real problems
+- 🤖 Building **AI Agents & LLM-powered systems**
+- 🌐 Developing scalable web apps using **MERN Stack & Next.js**
+- ⚙️ Designing backend systems with **FastAPI, Node.js**
+- 🧠 Working on **LLMs, RAG pipelines, AI workflows, and automation systems**
+- 📱 Building mobile apps using **Flutter & Kotlin**
+- ☁️ Deploying production systems with **Docker, AWS, CI/CD**
+
+Currently focused on:
+> **Agentic AI systems • AI SaaS products • Real-world ML applications**
 
 ---
 
@@ -35,22 +35,19 @@ I'm a **Full Stack Developer & Machine Learning Engineer** with experience in bu
 
 ---
 
-### ⚙️ Backend
+### ⚙️ Backend & Systems
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ---
 
 ### 🧠 AI / ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C1C1C?style=for-the-badge)
 
@@ -71,22 +68,37 @@ I'm a **Full Stack Developer & Machine Learning Engineer** with experience in bu
 
 ---
 
-## 🧠 Currently Working On
+## 🧠 Current Focus
 
-- 🤖 AI-powered SaaS app using **Next.js + LangChain + OpenAI**
-- ⚡  Working on Mindplex ai and Omegaplex porjects
-- 📊 Deep Learning projects using **PyTorch & real-world datasets**
-- ☁️ Deploying production apps using **AWS + Docker + CI/CD pipelines**
+- 🤖 Building **AI Agentic systems (multi-agent workflows)**
+- ⚡ Developing AI SaaS products with **Next.js + LLM APIs**
+- 📊 Training and fine-tuning models with **PyTorch**
+- ☁️ Deploying production-grade AI apps using **AWS + Docker**
+- 🔗 Integrating **RAG pipelines + vector databases**
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nahom-zenebe&theme=radical"/>
-<img src="https://streak-stats.demolab.com?user=nahom-zenebe&theme=radical&hide_border=true&border_radius=10"/>
+  <img src="https://streak-stats.demolab.com?user=nahom-zenebe&theme=radical&hide_border=true&border_radius=10"/>
 </p>
 
 
 
+## 📊 GitHub Analytics
+
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nahom-zenebe&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nahom-zenebe&theme=radical&utcOffset=3"/>
+</p>
+
 ---
+
+## 🔥 GitHub Streak & Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nahom-zenebe&theme=radical&hide_border=true&border_radius=10"/>
+</p>
