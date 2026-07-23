@@ -81,19 +81,10 @@ Currently focused on:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nahom-zenebe&theme=radical"/>
+  
   <img src="https://streak-stats.demolab.com?user=nahom-zenebe&theme=radical&hide_border=true&border_radius=10"/>
 </p>
 
-
-
-## 📊 GitHub Analytics
-
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nahom-zenebe&theme=radical"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nahom-zenebe&theme=radical&utcOffset=3"/>
-</p>
 
 ---
 
